@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<campeones-olimpicos>
+
+    <campeon anio="2024">
+        <nombre>Eliud Kipchoge</nombre>
+        <pais>Kenia</pais>
+        <tiempo-registrado>2:08:38</tiempo-registrado>
+    </campeon>
+
+    <campeon anio="2020">
+        <nombre>Eliud Kipchoge</nombre>
+        <pais>Kenia</pais>
+        <tiempo-registrado>2:02:20</tiempo-registrado>
+    </campeon>
+
+    <campeon anio="2016">
+        <nombre></nombre>
+        <pais></pais>
+        <tiempo-registrado></tiempo-registrado>
+    </campeon>
+
+    <campeon anio="2012">
+        <nombre></nombre>
+        <pais></pais>
+        <tiempo-registrado></tiempo-registrado>
+    </campeon>
+
+    <campeon anio="2008">
+        <nombre></nombre>
+        <pais></pais>
+        <tiempo-registrado></tiempo-registrado>
+    </campeon>
+
+    <campeon anio="2004">
+        <nombre></nombre>
+        <pais></pais>
+        <tiempo-registrado></tiempo-registrado>
+    </campeon>
+
+    <campeon anio="2000">
+        <nombre></nombre>
+        <pais></pais>
+        <tiempo-registrado></tiempo-registrado>
+    </campeon>
+
+    <campeon anio="1996">
+        <nombre></nombre>
+        <pais></pais>
+        <tiempo-registrado></tiempo-registrado>
+    </campeon>
+
+    <campeon anio="1992">
+        <nombre></nombre>
+        <pais></pais>
+        <tiempo-registrado></tiempo-registrado>
+    </campeon>
+
+
+</campeones-olimpicos>
+    
