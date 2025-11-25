@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- En la siguiente linea se conecta el fichero que valida las etiquetas del xml
+Para comentar y descomentar Alt + Shift + A -->
+<!DOCTYPE libro SYSTEM "libro.dtd">
+<libro>
+    <titulo>Don Quixote </titulo>
+    <autor>Miguel de Cervantes </autor>
+    <editorial>Francisco de Robles </editorial>
+    <anio>1659 </anio>
+    <descripcion>Considerada la primera novela moderna y una de las mejores obras de la literatura universal. </descripcion>
+
+</libro>
+
+<!-- el orden de las etiquetas afecta -->

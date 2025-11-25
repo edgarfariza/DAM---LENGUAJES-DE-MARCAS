@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- En la siguiente linea se conecta el fichero que valida las etiquetas del xml
+Para comentar y descomentar Alt + Shift + A -->
+<!DOCTYPE libro SYSTEM "libro.dtd">
+<libro idioma="español" categoria="Ciencia ficción">
+<título>Viaje al Centro del Universo</título>
+<autor>Juan Pérez</autor>
+<editorial>Editorial Planetario</editorial>
+<publicacion>2019</publicacion>
+<descripción>
+    Una aventura para descubrir los misterios más profundos del universo.
+    </descripción>
+</libro>
