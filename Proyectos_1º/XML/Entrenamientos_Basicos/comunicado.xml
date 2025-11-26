@@ -1,0 +1,14 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<!DOCTYPE comunicado [
+<!ELEMENT comunicado (titular,contenido,numero-noticia,reportero)>
+<!ELEMENT titular (#PCDATA)>
+<!ELEMENT contenido (#PCDATA)>
+<!ELEMENT numero-noticia (#PCDATA)>
+<!ELEMENT reportero (#PCDATA)>
+]>
+<comunicado>
+    <titular>El título de la noticia</titular>
+    <contenido>El texto completo del comunicado.</contenido>
+    <numero-noticia>101</numero-noticia>
+    <reportero>Nombre del reportero</reportero>
+</comunicado>
