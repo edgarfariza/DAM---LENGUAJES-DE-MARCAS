@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="factura.xsd"
+  numero="123" 
+  fecha="2023-06-21">
+  
+  <cliente>Jorge Mendoza</cliente>
+  
+  <partidas>
+    <partida>
+      <producto>Manzanas</producto>
+      <precioUnitario>1.50</precioUnitario>
+      <cantidad>10</cantidad>
+      <precioTotal>15.00</precioTotal>
+    </partida>
+    <partida>
+      <producto>Leche</producto>
+      <precioUnitario>2.00</precioUnitario>
+      <cantidad>1</cantidad>
+      <precioTotal>2.00</precioTotal>
+    </partida>
+  </partidas>
+</factura>
