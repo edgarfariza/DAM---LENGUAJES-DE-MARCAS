@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curso>
+  <nombre>Derecho penal</nombre>
+  <profesor>Laura Maria Pérez Gálvez</profesor>
+  
+  <estudiantes>
+  
+    <estudiante>
+      <nombre>Sabrina Ariza Garrido</nombre>
+      <identificacion>ID-001</identificacion>
+    </estudiante>
+    
+    <estudiante>
+      <nombre>Jose Postigo Díaz</nombre>
+      <identificacion>ID-002</identificacion>
+    </estudiante>
+
+    <estudiante>
+      <nombre>Marc Quiñonero Márquez</nombre>
+      <identificacion>ID-003</identificacion>
+    </estudiante>
+    
+  </estudiantes>
+</curso>

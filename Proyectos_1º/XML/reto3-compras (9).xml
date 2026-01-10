@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lista_de_compras>
+  
+  <producto>
+    <nombre>Guacamole</nombre>
+    <precio>3.50</precio>
+    <cantidad>2</cantidad>
+  </producto>
+
+  <producto>
+    <nombre>Hummus</nombre>
+    <precio>2.60</precio>
+    <cantidad>4</cantidad>
+  </producto>
+
+  <producto>
+    <nombre>Tostadas crujientes de pan</nombre>
+    <precio>1.80</precio>
+    <cantidad>5</cantidad>
+  </producto>
+
+  <producto>
+    <nombre>Vino "Frizzante"</nombre>
+    <precio>1.80</precio>
+    <cantidad>1</cantidad>
+  </producto>
+
+</lista_de_compras>
