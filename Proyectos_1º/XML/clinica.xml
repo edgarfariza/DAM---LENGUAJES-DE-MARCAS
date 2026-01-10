@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinica 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="clinica.xsd">
+
+  <paciente>
+    <nombre>Lucia Perez</nombre>
+    <fechaNacimiento>1980-05-20</fechaNacimiento>
+    <direccion>Calle Alcala 23</direccion>
+    <historiaClinica>Condición de salud estable, alergia al penicilina</historiaClinica>
+    <alergias>
+      <alergia>Penicilina</alergia>
+    </alergias>
+  </paciente>
+
+  <paciente>
+    <nombre>Alberto Melendez</nombre>
+    <fechaNacimiento>1990-10-15</fechaNacimiento>
+    <direccion>Calle Madrid 14</direccion>
+    <historiaClinica>Condición de salud estable, sin alergias conocidas</historiaClinica>
+  </paciente>
+
+</clinica>
