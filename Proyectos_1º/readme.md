@@ -1,5 +1,5 @@
-📂 Índice de Contenido
-### 1. [Proyectos XML](./XML) 🧩
+ Índice de Contenido
+### 1. [Proyectos XML](./XML) 
 
 *(Carpeta dedicada a la estructuración de la información y la validación)*
 
