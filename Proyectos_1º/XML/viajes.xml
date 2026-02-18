@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agencia>
+    <reserva id="R001">
+        <cliente>Edgar Ariza</cliente>
+        <destino>Berlin</destino>
+        <fecha_salida>2024-06-15</fecha_salida>
+        <fecha_regreso>2024-06-20</fecha_regreso>
+        <precio>850.50</precio>
+    </reserva>
+
+    <reserva id="R002">
+        <cliente>Eva Garrido</cliente>
+        <destino>Madrid</destino>
+        <fecha_salida>2024-07-10</fecha_salida>
+        <fecha_regreso>2024-07-15</fecha_regreso>
+        <precio>920.00</precio>
+    </reserva>
+
+    <reserva id="R003">
+        <cliente>Edgar Ariza</cliente>
+        <destino>Berlin</destino>
+        <fecha_salida>2024-08-01</fecha_salida>
+        <fecha_regreso>2024-08-10</fecha_regreso>
+        <precio>1200.00</precio>
+    </reserva>
+</agencia>
