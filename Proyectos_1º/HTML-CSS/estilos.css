@@ -1,0 +1,58 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f2f5; 
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+
+.tarjeta-crypto {
+    background-color: white;
+    width: 350px;
+    padding: 30px;
+    border-radius: 15px; 
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1); 
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+    margin-top: 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+
+.precio {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1a1a1a;
+    margin: 15px 0;
+}
+
+
+.variacion {
+    font-size: 18px;
+    margin-bottom: 25px;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.positivo {
+    color: #27ae60; 
+    background-color: #eafaf1; 
+    font-weight: bold;
+}
+
+
+.detalles {
+    border-top: 1px solid #eee; 
+    padding-top: 20px;
+    color: #555;
+}
+
+.detalles p {
+    margin: 5px 0;
+    font-size: 16px;
+}
