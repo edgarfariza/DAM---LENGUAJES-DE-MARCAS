@@ -8,6 +8,6 @@
 * Ejercicios de aplicacion de XPath y XQuery.
 
 
-### 2. [HTML-CSS]
+### 2. [HTML-CSS](./HTML-CSS)
 
 *Ejercicios de practica de HTML y aplicacion de estilos CSS
