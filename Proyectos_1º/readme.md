@@ -6,3 +6,8 @@
 * **Foco:** **Diseño de Esquemas** (DTD y XML Schema) para garantizar que los datos estén bien formados y sean válidos.
 * **Contenido:** Documentos XML bien formados, ejemplos de validación y ejercicios de serialización de datos. Documentos XSD validando los archivos XML
 * Ejercicios de aplicacion de XPath y XQuery.
+
+
+### 2. [HTML-CSS]
+
+*Ejercicios de practica de HTML y aplicacion de estilos CSS
