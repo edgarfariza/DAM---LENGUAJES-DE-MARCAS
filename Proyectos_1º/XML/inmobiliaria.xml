@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agencia>
+    <propiedad id="P001">
+        <tipo>Apartamento</tipo>
+        <ubicacion>
+            <ciudad>Málaga</ciudad>
+            <codigo_postal>29001</codigo_postal>
+        </ubicacion>
+        <precio>350000</precio>
+        <metros_cuadrados>85</metros_cuadrados>
+        <habitaciones>2</habitaciones>
+        <banos>1</banos>
+    </propiedad>
+
+    <propiedad id="P002">
+        <tipo>Casa</tipo>
+        <ubicacion>
+            <ciudad>Barcelona</ciudad>
+            <codigo_postal>08005</codigo_postal>
+        </ubicacion>
+        <precio>180000</precio>
+        <metros_cuadrados>120</metros_cuadrados>
+        <habitaciones>3</habitaciones>
+        <banos>2</banos>
+    </propiedad>
+
+    <propiedad id="P003">
+        <tipo>Local</tipo>
+        <ubicacion>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28045</codigo_postal>
+        </ubicacion>
+        <precio>120000</precio>
+        <metros_cuadrados>50</metros_cuadrados>
+        <habitaciones>1</habitaciones>
+        <banos>1</banos>
+    </propiedad>
+</agencia>
